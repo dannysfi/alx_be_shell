@@ -14,4 +14,7 @@ To execute the script, follow these steps:
 1. Make sure the script is executable:
    ```bash
    chmod +x 0-iam_betty
-## Project 1:
+## Project 1: 1-who_am_i
+-to execute the script- run./1-who_am_i
+```bash
+chmod +x 1-who_am_i
