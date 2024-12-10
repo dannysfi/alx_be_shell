@@ -14,4 +14,4 @@ To execute the script, follow these steps:
 1. Make sure the script is executable:
    ```bash
    chmod +x 0-iam_betty
-
+## Project 1:
